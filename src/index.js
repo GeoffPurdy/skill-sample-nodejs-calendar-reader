@@ -14,7 +14,7 @@ var alexa;
 var APP_ID = undefined; 
 
 // URL to get the .ics from, in this instance we are getting from Stanford however this can be changed
-var URL = "http://events.stanford.edu/eventlist.ics";
+var URL = "http://calendar.google.com/calendar/ical/aj8fe6uj60qdqop4mam7uac7bk%40group.calendar.google.com/public/basic.ics";
 
 // Skills name 
 var skillName = "Events calendar:";
